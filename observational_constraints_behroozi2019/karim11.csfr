@@ -1,0 +1,14 @@
+#type: cosmic sfr
+#subtype: radio
+#ref: http://arxiv.org/abs/1011.6370v2
+#note: Xray sources excluded
+#note: Taken from middle column (SFRD_int) of Table 7.
+0.2 0.4 -1.745 0.13 0.13
+0.4 0.6 -1.638 0.13 0.13
+0.6 0.8 -1.409 0.13 0.13
+0.8 1.0 -1.260 0.17 0.17
+1.0 1.2 -1.215 0.17 0.17
+1.2 1.6 -1.201 0.17 0.17
+1.6 2.0 -1.022 0.19 0.19
+2.0 2.5 -1.009 0.19 0.19
+2.5 3.0 -0.917 0.19 0.19

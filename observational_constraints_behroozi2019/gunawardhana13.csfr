@@ -1,0 +1,9 @@
+#type: cosmic sfr
+#subtype: Halpha
+#ref: http://arxiv.org/abs/1305.5308
+#conversions: IMF
+#notes: values are from GAMA results in Table 2
+0.001 0.1 -1.886 0.13 0.13
+0.1 0.15 -1.914 0.13 0.13
+0.17 0.24 -1.936 0.13 0.13
+0.24 0.35 -1.714 0.13 0.13

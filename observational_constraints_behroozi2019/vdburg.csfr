@@ -1,0 +1,7 @@
+#type: cosmic sfr
+#subtype: UV
+#ref: http://arxiv.org/pdf/1009.0758v1.pdf
+#conversions: IMF
+2.9 3.3 -1.085 0.27 0.27
+3.45 4.05 -1.307 0.27 0.27
+4.5 5 -1.766 0.27 0.27

@@ -1,0 +1,5 @@
+#type: cosmic sfr
+#subtype: Halpha
+#ref: http://lanl.arxiv.org/abs/0901.4114
+#conversions: IMF
+0.829 0.851 -1.023 0.13 0.13

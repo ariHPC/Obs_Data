@@ -1,0 +1,8 @@
+#zlow: 0.5
+#zhigh: 1.0
+#ref: http://lanl.arxiv.org/pdf/1401.1648v1.pdf
+#type: ssfr
+#notes: data points with >1 dex errors were excluded.  SFRs obtained from Condon conversion converted from Salpeter IMF
+9.5 10 -9.13494027279513 0.28 0.28
+10 10.5 -9.50662168872433 0.28 0.28
+10.5 11 -9.70131195421106 0.28 0.28

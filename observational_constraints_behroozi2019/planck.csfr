@@ -1,0 +1,10 @@
+#type: cosmic sfr
+#subtype: FIR
+#ref: http://arxiv.org/pdf/1309.0382v1.pdf
+#note: z=0 measurement from Vaccari+ 2010 
+#conversions: IMF
+#note: parameters from Table 8
+0.0 0.1 -1.91 0.13 0.13
+0.9 1.1 -0.994 0.17 0.17
+1.9 2.1 -0.980 0.19 0.19
+3.9 4.1 -1.598 0.27 0.27

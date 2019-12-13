@@ -1,0 +1,7 @@
+#type: ssfr
+#subtype: UV+FIR
+#ref: http://lanl.arxiv.org/abs/1409.5433v3
+#notes: average SSFR for all galaxies computed from SSFR for SF galaxies multiplied by (1-f_q), where f_q is the quenched fraction from Fig. 1
+#zlow: 3.5
+#zhigh: 5.0
+10.75 11.25 -8.55299747589206 0.28 0.28

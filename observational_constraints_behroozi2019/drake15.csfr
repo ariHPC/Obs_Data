@@ -1,0 +1,7 @@
+#type: cosmic sfr
+#subtype: OII, OIII
+#ref: http://arxiv.org/pdf/1509.06900v1.pdf
+#note: redshift ranges from Fig. 7 in  http://lanl.arxiv.org/abs/1305.1305v1
+#note: Since multiple overlapping redshift ranges with the same fields were reported, only results from filter NB921 are included, which had the largest sample sizes.
+#note: OIII results excluded
+1.44 1.49 -0.9348 0.17 0.17

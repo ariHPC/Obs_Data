@@ -1,0 +1,9 @@
+#type: irx
+#ref: https://arxiv.org/pdf/1606.05280.pdf
+#zlow: 6.5
+#zhigh: 7.5
+#note: assumed errors are greater of +/-0.5 mag in dust correction or difference of Td=35K and Td=evolving
+#columns: UV_min UV_max log10(IRX) Err+(dex) Err-(dex)
+-21.5 -20.5 0.292353200948132 0.274905982207946 0.353878332394086
+-20.5 -19.5 -0.0841145540898248 0.360741679620685 0.737437453411159
+-19.5 -18.5 -0.381149965653739 0.475914313006249 9.61885003434626

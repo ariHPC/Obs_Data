@@ -1,0 +1,7 @@
+#type: qf
+#ref: http://lanl.arxiv.org/abs/1301.1688v2
+#conversions: dust,SPS
+#zlow: 0.80
+#zhigh: 1.00
+10.8 10.9 0.588713140041383 0.05 0.05
+10.9 11 0.625848115062782 0.05 0.05

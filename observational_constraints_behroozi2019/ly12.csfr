@@ -1,0 +1,5 @@
+#type: cosmic sfr
+#subtype: UV+SED
+#ref: http://arxiv.org/pdf/1104.5019v2.pdf
+#conversions: IMF
+1.5 2.6 -0.94 0.19 0.19
