@@ -1,0 +1,14 @@
+#Bouwens et al 2012 (from Rob)
+#Salpeter IMF and (0.3,0.7,0.7) cosmology. 
+#Bouwens suggests the IMF conversion to
+#Chabrier should be achieved by dividing by 1.8, 
+#because he assumes slightly different stellar 
+#mass limits for the IMF to us.
+#
+#redshift, sfrd (Msun/yr/Mpc^-3)
+3.784	0.030
+4.984	0.015
+5.884	0.013
+6.784	0.010
+7.984	0.006
+10.284	1.601e-4

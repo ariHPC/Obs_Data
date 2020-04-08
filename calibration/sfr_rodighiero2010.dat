@@ -1,0 +1,14 @@
+# star formation rate density from Rodighiero et al 2010 AA, 515, 8
+# based on IR (24um) luminosity. Assumes H0=70 km/s and Kennicut 1998
+# transformation between LIR and SFR  (hence Salpeter IMF), divide by
+# 1.08 to get Kennicutt IMF.
+#  z           rho_sfr      err-        err+
+0.146	0.020	-0.006	0.006
+0.373	0.037	-0.009	0.014
+0.520	0.068	-0.019	0.024
+0.696	0.095	-0.027	0.037
+0.895	0.128	-0.029	0.035
+1.097	0.193	-0.069	0.027
+1.497	0.205	-0.082	0.053
+1.846	0.208	-0.103	0.106
+2.246	0.188	-0.098	0.077
