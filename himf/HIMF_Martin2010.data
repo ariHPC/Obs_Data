@@ -1,0 +1,64 @@
+# HI mass function at z=0 from 40% completed ALFALFA survey (Martin etal 2010, ApJ 723, 1359)
+# based on 10,000 galaxies in 40% of total ALFALFA survey area
+# MF based on first, modified 1/Vmax and second, 2DSWML methods.
+# 1/Vmax method includes corrrection for LSS based on IRAS PSCz density field
+# points provided by Ann Martin.
+#
+# distances obtained from redshifts using peculiar velocity model
+# effectively assumes H0=70
+#
+# MHI is in Msun
+# MF Phi is dn/dlog10(MHI) in Mpc^-3 dex^-1
+# error is error on log(Phi)
+#
+#log(MHI)  log(Phi) err
+#1/Vmax points:
+ 6.3  -0.743   0.366
+ 6.5  -0.839   0.259
+ 6.7  -0.875   0.191
+ 6.9  -0.935   0.153
+ 7.1  -1.065   0.154
+ 7.3  -1.130   0.114
+ 7.5  -1.163   0.082
+ 7.7  -1.224   0.070
+ 7.9  -1.363   0.061
+ 8.1  -1.460   0.054
+ 8.3  -1.493   0.046
+ 8.5  -1.573   0.043
+ 8.7  -1.664   0.038
+ 8.9  -1.689   0.029
+ 9.1  -1.673   0.023
+ 9.3  -1.740   0.021
+ 9.5  -1.893   0.021
+ 9.7  -2.061   0.018
+ 9.9  -2.288   0.017
+10.1  -2.596   0.017
+10.3  -3.006   0.024
+10.5  -3.641   0.057
+10.7  -4.428   0.131
+10.9  -5.320   0.376
+#SWML points:
+ 6.3  -0.502   0.296
+ 6.5  -0.661   0.246
+ 6.7  -0.721   0.153
+ 6.9  -0.863   0.151
+ 7.1  -1.124   0.133
+ 7.3  -1.043   0.110
+ 7.5  -1.227   0.081
+ 7.7  -1.240   0.059
+ 7.9  -1.250   0.056
+ 8.1  -1.410   0.054
+ 8.3  -1.392   0.052
+ 8.5  -1.474   0.052
+ 8.7  -1.578   0.048
+ 8.9  -1.620   0.044
+ 9.1  -1.692   0.042
+ 9.3  -1.785   0.042
+ 9.5  -1.969   0.042
+ 9.7  -2.133   0.043
+ 9.9  -2.310   0.042
+10.1  -2.566   0.042
+10.3  -3.043   0.042
+10.5  -3.773   0.052
+10.7  -4.528   0.082
+10.9  -5.431   0.224
